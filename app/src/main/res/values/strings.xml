@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">plnguardbeta</string>
+    <string name="nip">NIP</string>
+    <string name="lupa_password">Lupa Password?</string>
+</resources>

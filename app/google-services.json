@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "276781398708",
+    "firebase_url": "https://plnguardbeta.firebaseio.com",
+    "project_id": "plnguardbeta",
+    "storage_bucket": "plnguardbeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276781398708:android:bd855d8b1b10f40e",
+        "android_client_info": {
+          "package_name": "com.valariq.plnguardbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276781398708-8m6gf8obsgifnogp05p66tlvlq3qb16j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valariq.plnguardbeta",
+            "certificate_hash": "273b4399726c3138d91a8fed4c9f3ce6ee8a9f1d"
+          }
+        },
+        {
+          "client_id": "276781398708-bg4edu0c9kpjrcgpsf2e8avj4kdlfgcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf6L3msG6mO38boYy2dEZ_Ww43nvYyHT4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276781398708-bg4edu0c9kpjrcgpsf2e8avj4kdlfgcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
